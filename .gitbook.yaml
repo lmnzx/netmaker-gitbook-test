@@ -1,0 +1,4 @@
+root: ./
+
+redirects:
+  install.html: getting-started/install.md
