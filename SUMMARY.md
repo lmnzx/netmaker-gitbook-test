@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [About](README.md)
+* [Architecture](architecture.md)
 
 ## Getting Started
 
